@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.3",
+    "version":  "0.2.4",
     "channel":  "stable",
     "signature":  null,
     "minOs":  "windows11",
-    "packageSha256":  "c35396a4a4cb565903c2ed9187e3921552f2d627985dbb6fd632543b78f7bd6e",
-    "packageUrl":  "https://github.com/KCarino18/BatchMind-releases/releases/download/v0.2.3/BatchMind-0.2.3-Setup.exe"
+    "packageSha256":  "146d510d5c00246127a6ac1aa14050725465e5fd7677c32f639bf08b76439906",
+    "packageUrl":  "https://github.com/KCarino18/BatchMind-releases/releases/download/v0.2.4/BatchMind-0.2.4-Setup.exe"
 }
