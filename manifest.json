@@ -1,0 +1,8 @@
+﻿{
+    "version":  "0.2.0",
+    "channel":  "stable",
+    "signature":  null,
+    "minOs":  "windows11",
+    "packageSha256":  "260740e31140c2fffe76e3b5978e7fcb7bd450ea8fa2328a3e91ddc3af403da8",
+    "packageUrl":  "https://github.com/KCarino18/BatchMind-releases/releases/download/v0.2.0/BatchMind-setup-0.2.0.zip"
+}
