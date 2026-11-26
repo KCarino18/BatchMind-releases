@@ -1,9 +1,11 @@
 ﻿# BatchMind releases
 
-Public update feed for BatchMind (KC Labs).
+Public installers and update feed for BatchMind (KC Labs). Same pattern as MixWire / Folio releases.
 
-- Source code: private repository `KCarino18/BatchMind`
-- Purchase / license keys: [Gumroad](https://kclabs.gumroad.com/l/BatchMind)
-- Apps poll `manifest.json` on startup and install newer `setup` packages from Releases
+- **Download latest:** `BatchMind-Setup.exe` on the newest [Release](https://github.com/KCarino18/BatchMind-releases/releases/latest)
+- **Guide:** [BatchMind-Guide.pdf](./BatchMind-Guide.pdf)
+- **Buy / license key:** [Gumroad](https://kclabs.gumroad.com/l/BatchMind)
+- **Source:** private `KCarino18/BatchMind` (not published here)
+- Apps poll `manifest.json` on startup and install newer setup builds automatically
 
-Do not put source here — installers and manifests only.
+A public installer download does **not** grant a free license. Activate with your Gumroad key.
